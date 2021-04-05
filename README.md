@@ -10,6 +10,6 @@ $ git clone https://github.com/AKKUSANTUY/Spammer
 
 $ cd Spammer
 
-$ python2 OTP.py
+$ python2 Otp.sh
 
 #┌∩┐⎝◣⏝◢⎠┌∩┐︻╦̵̵͇̿̿̿̿╤────►
